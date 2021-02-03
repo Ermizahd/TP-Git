@@ -4,3 +4,4 @@ def fct1():
     return "les poulets"
 if nom
 then ouil
+tchoin
