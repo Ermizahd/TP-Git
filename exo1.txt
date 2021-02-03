@@ -5,4 +5,5 @@ def fct1():
 if nom
 then ouil
 tchoin
-ah oui
+ah nn
+oulala
