@@ -1,1 +1,5 @@
 print("hello hell")
+print("ah bah nn")
+def fct1():
+    return "les poulets"
+if nom
